@@ -1,0 +1,9 @@
+Added Component: Designator=J2(TC2030-FP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2030-NL-FP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J2-1
+Added Pin To Net: NetName=MCU SWDIO Pin=J2-2
+Added Pin To Net: NetName=MCU NRST Pin=J2-3
+Added Pin To Net: NetName=MCU SWCLK Pin=J2-4
+Added Pin To Net: NetName=NetC1_1 Pin=J2-5
+Added Pin To Net: NetName=MCU SWO Pin=J2-6

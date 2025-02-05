@@ -1,0 +1,340 @@
+*************************************************************
+FileName = PCB1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Paste
+      File : PCB1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1(SIGNAL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4(SIGNAL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1(SIGNAL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB1.GPT
+
+    Adding Layer      : L1(SIGNAL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D60
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB1.GPB
+
+    Adding Layer      : L4(SIGNAL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : L4(SIGNAL)
+      File : PCB1.GBL
+
+    Adding Layer      : L4(SIGNAL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D14
+    D61
+    D62
+    D64
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : L3(GND)
+      File : PCB1.G2
+
+    Adding Layer      : L3(GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : L2(GND)
+      File : PCB1.G1
+
+    Adding Layer      : L2(GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : L1(SIGNAL)
+      File : PCB1.GTL
+
+    Adding Layer      : L1(SIGNAL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB1.GD1
+
+    Adding Drill Pair : L1(SIGNAL)-L4(SIGNAL)
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB1.GD2
+
+    Adding Drill Pair : L1(SIGNAL)-L2(GND)
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB1.GG1
+
+    Adding Drill Pair : L1(SIGNAL)-L4(SIGNAL)
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB1.GG2
+
+    Adding Drill Pair : L1(SIGNAL)-L2(GND)
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB1.GM
+
+
+Used DCodes :
+    D75
+*************************************************************
+
